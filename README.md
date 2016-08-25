@@ -10,3 +10,4 @@ Notes and Material for web developers.
 ## Other Material
 *  [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+* [modular components](https://github.com/component)
