@@ -1,3 +1,10 @@
+Object.defineProperty(Array.prototype, 'contains', {
+  enumerable: false,
+  value: Array.prototype.includes
+});
+Object.defineProperty(String.prototype, 'contains', {
+  enumerable: false,
+  value: String.prototype.includes
+});
 window.location.redirect = window.location.replace;
-String.prototype.contains = String.prototype.includes;
-Array.prototype.contains = Array.prototype.includes;
+
